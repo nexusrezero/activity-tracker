@@ -1,6 +1,6 @@
 # Activity Tracker
 
-A simple Python CLI project that tracks time spent on activities.
+A simple Python  project that tracks time spent on activities.
 
 ## Features
 
